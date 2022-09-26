@@ -54,3 +54,21 @@ thead{
 .riga-azzurra{
     background-color: lightblue;
 }
+
+/* #img{
+    background-image: url(../img/graph.jpg);
+    background-size: 100%;
+} */
+
+
+div{
+    position: relative;
+}
+
+.potrebbero-interessarti{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    color: white;
+}
+
