@@ -30,3 +30,7 @@ header{
 .sottotitolo{
     font-size: 15px;
 }
+
+p{
+    margin: 10px;
+}
