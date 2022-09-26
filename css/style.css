@@ -35,7 +35,22 @@ p{
     margin: 10px;
 }
 
+span{
+    background-color: yellow;
+}
+
 ul{
     padding-left: 100px;
     margin: 10px;
+}
+
+/* colore tabella */
+
+thead{
+    background-color: blue;
+    color: aliceblue;
+}
+
+.riga-azzurra{
+    background-color: lightblue;
 }
